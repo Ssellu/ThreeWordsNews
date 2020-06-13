@@ -1,0 +1,2 @@
+rootProject.name='ThreeWordsNews'
+include ':app'
