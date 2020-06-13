@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ThreeWordsNews</string>
+    <string name="app_name">3Keywords!</string>
+    <string name="app_name_logo">3\nKeywords</string>
+    <string name="text_lead_all_feeds">No items to load.</string>
+    <string name="text_app_title">Today\'s News by three Keywords!</string>
+    <string name="text_author">by Ssellu</string>
 </resources>

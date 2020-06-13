@@ -1,7 +1,8 @@
-package com.issell.threewordsnews
+package com.issell.threewordsnews.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.issell.threewordsnews.R
 
 class MainActivity : AppCompatActivity() {
 
