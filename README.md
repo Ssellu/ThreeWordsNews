@@ -37,3 +37,32 @@ android {
     }
 }
 ```
+
+2. XML structures     
+    Link Here : [RSS News](https://news.google.com/rss?hl=en-US&amp;gl=US&amp;ceid=US:en, "RSS News Feed")
+```
+<rss>
+    <channel>
+        <item>
+            <link>
+            <guid>
+            <pubDate>
+            <source url="url">publisher</source>
+            ...
+        </item> 
+        
+        <item>
+            ...
+        <item>
+            ...
+    </channel>
+</rss>
+```   
+
+3. additional information
+```
+var mainContent: String = "",
+var charset: Charset = Charset.defaultCharset(),  // default = utf8
+var image: String = "",
+var keywords: Array<String> = arrayOf("", "", "")
+```
