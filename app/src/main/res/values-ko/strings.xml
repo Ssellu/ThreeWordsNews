@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3Keywords!</string>
+    <string name="app_name_logo">3\nKeywords</string>
+    <string name="text_lead_all_feeds">더이상 로드할 뉴스가 없습니다.</string>
+    <string name="text_app_title">키워드로 보는 오늘의 뉴스!</string>
+    <string name="text_author">by Ssellu</string>
+</resources>
